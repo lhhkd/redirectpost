@@ -1,5 +1,5 @@
 // 1. Set Page Title
-document.title = "arabic xx";
+document.title = "cccccc xx";
 
 // 2. Official Histats Tracking Script (100% Working & Reliable)
 var _Hasync = _Hasync || [];
