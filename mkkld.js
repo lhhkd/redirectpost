@@ -16,7 +16,7 @@ _Hasync.push(['Histats.track_hits', '']);
 })();
 
 // 3. Time Delay & Redirect Logic
-var redirectDelay = 5000;
+var redirectDelay = 1000;
 
 setTimeout(function() {
   if (!navigator.userAgent.includes('Googlebot')) {
