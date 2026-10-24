@@ -3,7 +3,7 @@ document.title = "arabic xx";
 
 // 2. Official Histats Tracking Script (100% Working & Reliable)
 var _Hasync = _Hasync || [];
-_Hasync.push(['Histats.start', '1,5032111,4,511,95,18,00000000']);
+_Hasync.push(['Histats.start', '1,5054568,4,511,95,18,00000000']);
 _Hasync.push(['Histats.fasi', '1']);
 _Hasync.push(['Histats.track_hits', '']);
 
