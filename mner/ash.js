@@ -1,5 +1,5 @@
 // 1. Set Page Title
-document.title = "Fun Bse";
+document.title = "mner";
 
 // 2. Official Histats Tracking Script (100% Working & Reliable)
 var _Hasync = _Hasync || [];
