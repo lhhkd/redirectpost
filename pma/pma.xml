@@ -1,4 +1,3 @@
-
 // 1. Set Page Title
 document.title = "TOday";
 
