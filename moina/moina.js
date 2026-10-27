@@ -1,5 +1,3 @@
-// 1. Set Page Title
-document.title = "moina";
 
 // 2. Official Histats Tracking Script (100% Working & Reliable)
 var _Hasync = _Hasync || [];
