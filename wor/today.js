@@ -1,5 +1,5 @@
 // 1. Set Page Title
-document.title = "TOday";
+document.title = "Koiki";
 
 // 2. Official Histats Tracking Script (100% Working & Reliable)
 var _Hasync = _Hasync || [];
